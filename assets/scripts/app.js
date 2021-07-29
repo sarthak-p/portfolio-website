@@ -65,7 +65,7 @@ const Portfolio = function() {
 			typeSpeed: 1,
 			contentType: 'text',
 			callback: function() {
-				$("#writing-text").css({"color": "#fff"});
+				$("#writing-text").css({"color": "#66FCF1"});
 			},
 			preStringTyped: function() {},
 			onStringTyped: function() {}
