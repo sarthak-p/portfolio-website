@@ -233,9 +233,9 @@ h6 {
 .details a,
 .details a:link,
 .details a:active {
-  color: rgba(255, 103, 68, 0.91);
+  color: white;
   border: 2px solid rgba(255, 103, 68, 0.91) !important;
-  background-color: #fff;
+  background-color: black;
 }
 
 .details a:hover,
@@ -267,7 +267,7 @@ h6 {
 
 /* Footer Call-to-action */
  #footer-cta {
-  background-color: rgba(255, 103, 68, 0.91);
+  background-color: #00203FFF;
   padding: 6em 4em 5.6em;
 }
 
@@ -294,7 +294,7 @@ h6 {
 
 #footer-cta a:hover {
   background: #fff;
-  color: rgba(255, 103, 68, 0.91);
+  color: black;
   box-shadow: 0 5px 11px 0 rgba(0, 0, 0, 0.18),
     0 4px 14px 1px rgba(0, 0, 0, 0.15);
 } 
@@ -306,7 +306,7 @@ h6 {
 }
 
 #footer #logo {
-  background-color: rgba(255, 103, 68, 0.91);
+  background-color: #1F2833;
   border-radius: 50%;
   color: #fff;
   padding: 0.4em;
