@@ -1,3 +1,4 @@
 # Portfolio Website
 
-Link: https://sarthak-p.github.io/portfolio-website/
+Link: www.sarthakpatipati.ga
+
