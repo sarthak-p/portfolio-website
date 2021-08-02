@@ -1,4 +1,4 @@
 # Portfolio Website
 
-Link: www.sarthakpatipati.ga
+Visit website: www.sarthakpatipati.ga
 
